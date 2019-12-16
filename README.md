@@ -13,3 +13,4 @@ n              	Final value (n=1)<br />
 ______________________________________________________________________________<br />
 Copyright (C) 2019 Edgar Guevara, PhD<br />
 ______________________________________________________________________________<br />
+[![View collatz on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://la.mathworks.com/matlabcentral/fileexchange/73704-collatz)
