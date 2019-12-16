@@ -1,8 +1,5 @@
 function n = collatz(n, varargin)
-% This function checks for the Collatz conjecture for a given number. 
-% It can be customized to check other variants different to 3n+1
-% Takes a number n. If it’s even, divide by 2. If it’s odd, multiply
-% by 3 and add 1. Repeat. Do all starting numbers lead to 1?
+% 165
 % INPUTS
 % n                 A positive real number greater than 2.
 % [OPTIONAL INPUTS]
